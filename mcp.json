@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "paper-picnic": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["./src/server.js"],
+      "cwd": "${PLUGIN_ROOT}"
+    }
+  }
+}

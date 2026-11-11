@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "paper-picnic",
+  "version": "0.1.0",
+  "description": "Browse and search this week's academic papers from Paper Picnic's public Markdown feeds across political science, economics, sociology, and related fields.",
+  "author": {
+    "name": "William Hey"
+  },
+  "homepage": "https://www.paper-picnic.com",
+  "repository": "https://github.com/SiyaoZheng/paper-picnic-plugin",
+  "keywords": [
+    "papers",
+    "research",
+    "political-science",
+    "economics",
+    "sociology",
+    "working-papers"
+  ]
+}
